@@ -1,0 +1,28 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+header,footer{
+  width: 100%;
+  background-color: red;
+  color:white;
+
+}
+section {
+  width: 100%;
+}
+
+aside.left {
+  width: 15%;
+  float: left;
+}
+main {
+  width: 70%;
+  float: left;
+}
+aside.right {
+  width: 15%;
+  float: left;
+}
